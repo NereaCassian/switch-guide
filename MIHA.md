@@ -16,7 +16,7 @@ Ahora escoge el .bin dentro del .zip de Hekate y dale a Inject payload
 
 !(image)[https://i.imgur.com/wqNxpEz.png]
 
-https://i.imgur.com/YJsG2nk.png
+!(image)[https://i.imgur.com/YJsG2nk.png]
 
 Una vez arranque Hekate entra en payloads y seleciona Fusse.bin
 
